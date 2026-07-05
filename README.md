@@ -2,8 +2,6 @@
 
 IntelliPulse 是一个面向竞品资料分析的 AI 应用：用户上传多个竞品文档后，系统会完成文档解析、去重、切片、检索增强生成、流式分析、引用片段展示，并生成按竞品切换的竞争力仪表盘。
 
-English Summary: IntelliPulse is a local-first AI competitor analysis platform built with FastAPI, React, Redis, PostgreSQL, and DashScope. It supports document upload, deduplication, chunk retrieval, streaming RAG analysis, and per-competitor radar dashboards.
-
 ## 目录
 
 - [快速开始](#快速开始)
